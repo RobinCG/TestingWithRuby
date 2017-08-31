@@ -1,4 +1,4 @@
-# TestingWithRuby
+# TestingWithRubyCucumberCapybaraBdd
 There are several features file, which content the behavior of logon, login, logout and online modules for youse site.
 You should to run in order:
 1. cucumber features\logon.feature
