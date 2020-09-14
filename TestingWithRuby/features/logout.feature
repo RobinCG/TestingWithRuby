@@ -14,6 +14,7 @@ Scenario: Logout
  Then I should see "Ops, você ainda não tem nenhum seguro"
  Then I will click the link "Olá"
  Then I will click the link "Sair"
+ Then I will clikc the link "close"
 
 
 

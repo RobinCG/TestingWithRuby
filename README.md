@@ -5,6 +5,7 @@ You should to run in order:
 2. cucumber features\login.feature
 3. cucumber feature\logout.feature
 4. cucumber feature\online.feature
+5. cucumber feature\nothing.feature
 
 This project has was worked with:
 C:\DevKit>gem -v
