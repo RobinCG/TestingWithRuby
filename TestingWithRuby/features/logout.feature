@@ -5,6 +5,7 @@ Background:
 
 Scenario: Logout        
  When I will click in "Minha conta"
+ Then I will doubleclick in "Minha conta"
  Then I will write for e-mail signin "ercog@yahoo.com"
  Then I will click the link "próximo passo"
  Then I will wait for 5 seconds
